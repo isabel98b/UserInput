@@ -1,7 +1,7 @@
 User Input
 =============
 
-In this project you will write a program that takes user input from the mouse to allow the user to interact with your program. You may find the following functions and variables helpful (you can find full descriptions at [processing.org](https://processing.org/reference/):  
+In this project you will write a program that takes user input from the mouse to allow the user to interact with your program. You may find the following functions and variables helpful (you can find full descriptions at [processing.org](https://processing.org/reference/)):  
   * `mouseButton`  
   * `mouseClicked()`  
   * `mouseDragged()`  
